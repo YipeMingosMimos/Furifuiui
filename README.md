@@ -30,4 +30,4 @@
 <img width="150" height="20" alt="1000189293" src="https://github.com/user-attachments/assets/6ebc4c3b-9eb3-4570-a2c9-d36954764294" />
 <img width="150" height="20" alt="1000189294" src="https://github.com/user-attachments/assets/682cc2eb-4dad-4bba-aa3c-beee2afc353c" />
 <img width="150" height="20" alt="1000189295" src="https://github.com/user-attachments/assets/1804e144-959d-4740-886b-db53532ee2a2" />
-
+made by Ecto :)
