@@ -30,4 +30,16 @@
 <img width="150" height="20" alt="1000189293" src="https://github.com/user-attachments/assets/6ebc4c3b-9eb3-4570-a2c9-d36954764294" />
 <img width="150" height="20" alt="1000189294" src="https://github.com/user-attachments/assets/682cc2eb-4dad-4bba-aa3c-beee2afc353c" />
 <img width="150" height="20" alt="1000189295" src="https://github.com/user-attachments/assets/1804e144-959d-4740-886b-db53532ee2a2" />
+
+
+<img width="395" height="458" alt="1000190793" src="https://github.com/user-attachments/assets/61ae8d8f-25cb-4dd0-a035-382ccfdce5da" />
+<img width="2304" height="1440" alt="1000191204" src="https://github.com/user-attachments/assets/2619ace1-f3af-4c17-bb15-f4cd1bcfa5b6" />
+<img width="2304" height="1440" alt="1000191201" src="https://github.com/user-attachments/assets/b6f5dffd-cdd4-4e89-b459-7323d8a57d06" />
+<img width="2304" height="1440" alt="1000193197" src="https://github.com/user-attachments/assets/d971b40d-763d-457c-afdb-c0b12cd0a12c" />
+<img width="229" height="306" alt="1000193157" src="https://github.com/user-attachments/assets/d044b3dc-b1d1-4857-bf1d-e4aba55388a2" />
+<img width="566" height="244" alt="1000193820" src="https://github.com/user-attachments/assets/c68fc842-ae5c-492e-9d24-e31fed41903c" />
+<img width="600" height="800" alt="1000194960" src="https://github.com/user-attachments/assets/f99f48b8-aa72-4f67-b9ba-ae59386b00f5" />
+<img width="600" height="800" alt="1000194961" src="https://github.com/user-attachments/assets/47164626-72d8-43f5-bbf7-316e4fc38e10" />
+<img width="736" height="1016" alt="1000196106" src="https://github.com/user-attachments/assets/a1dd4f5f-bc93-4e16-9178-086c530e2246" />
+
 made by Ecto :)
